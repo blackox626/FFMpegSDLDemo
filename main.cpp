@@ -813,3 +813,6 @@ int video_play(void *arg)
     }
 
 }
+
+///关于FFmpeg编解码中涉及到的pts总结（关于时间戳和时间基）
+/// https://blog.csdn.net/chenxijie1985/article/details/120706827?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6-120706827-blog-119687268.pc_relevant_blogantidownloadv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-6-120706827-blog-119687268.pc_relevant_blogantidownloadv1&utm_relevant_index=9
