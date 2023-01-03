@@ -135,6 +135,7 @@ int main(int argc, char *argv[]) {
     int wait_flag = 0;
     SDL_Event event;
 
+    //const char *filename = "https://v.geilicdn.com/video/follow1563148759-6688000001842d5327fb0a20e7c7_1280_1280.mp4";
     const char *filename = "/Users/blackox626/CLionProjects/FFMpegSDLDemo/resource/media.mp4";
 
     //SDL thread
